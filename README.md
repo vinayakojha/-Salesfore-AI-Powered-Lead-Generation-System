@@ -94,6 +94,6 @@ Automated lead insights using AI
 Improved sales productivity
 Secure and scalable CRM operations
 Author
-Yash Raj Singh Chouhan
+Vinayak Ojha
 
 Salesforce AI-Powered Lead Generation System Project
